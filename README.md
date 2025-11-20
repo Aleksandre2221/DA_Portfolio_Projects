@@ -8,7 +8,7 @@
 </p>
 
 This repository showcases a curated collection of my **Data Analytics projects**, covering SQL, Excel, Power BI, and Python.  
-Each project reflects real analytical workflows — from data extraction and cleaning to modeling, analysis, and visualization — with a strong focus on business-oriented insights.
+Each project reflects real analytical workflows - from data extraction and cleaning to modeling, analysis, and visualization - with a strong focus on business-oriented insights.
 
 
 ---
