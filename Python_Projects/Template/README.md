@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Description](#description)
+- [Dataset](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/Python_Projects/Template/Dataset)
 - [ERD](#erd)
 - [Case Study Questions](#case-study-questions)
 - [Key Findings](#key-findings)
