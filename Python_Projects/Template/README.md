@@ -12,7 +12,7 @@
 - Here you should write what is the goal of the project, what are your plans ecc.
   
 ## ERD
-![ERD](./images/ERD.png)
+- Screenshot of ERD 
 
 ## Case Study Questions
 - Question 1
