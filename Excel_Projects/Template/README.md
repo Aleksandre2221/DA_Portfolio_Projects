@@ -44,6 +44,7 @@
   - Customer Retention Rate
  
 ## Insights 
+- Tutti i Business Insights che hai trovato (Es: “Lo store X mostra un calo del 15% nelle vendite di biciclette elettriche, suggerendo un focus su promozioni mirate”)
 
 ## Business Recommendations
-- Suggerimenti basati sulle analisi
+- suggerimenti attuabili basati sui dati, come strategie di pricing, inventario o incentivi al personale.
