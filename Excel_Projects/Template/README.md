@@ -9,9 +9,9 @@
 - [Insights](#insights)
 - [Business Recommendations](#business-recommendations)
 - **Resources / Files**
-  - [Dataset](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/PowerBI_Projects/Template/Dataset)
-  - [Screenshots](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Template/Screenshots.md)
-  - [DAX Measures](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Template/DAX_Measures.md)
+  - [Dataset](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/Excel_Projects/Template/Dataset)
+  - [Screenshots](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Template/Screenshots.md)
+  - [DAX Measures](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Template/DAX_Measures.md)
   - [Report](#download--report-access)
 
 ## Description
