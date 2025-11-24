@@ -7,7 +7,7 @@
 - [Case Study Questions](#case-study-questions)
 - [Key Findings](#key-findings)
 - [Next Steps / Recommendations](#next-steps--recommendations)
-- [Solution](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Python_Projects/Template/solution.md)
+- [Solution](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/SQL_Projects/Template/solution.md)
 
 ## Description
 - Here you should write what is the goal of the project, what are your plans ecc.
