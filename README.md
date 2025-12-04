@@ -1,5 +1,5 @@
 # 💼 Data Analytics Portfolio
-<!-- BADGES SET B — MINIMAL --> asdasd
+<!-- BADGES SET B — MINIMAL --> 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
