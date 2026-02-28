@@ -13,7 +13,7 @@
   - [Solution](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/SQL_Projects/Template/solution.md)
 
 ## Description
-- Here you should write what is the goal of the project, what are your plans ecc.
+This prorject analyzes sales data from an e-commerce company to understand business performance and identify growth opportunities. Using SQL queries, I calculated important KPI's and created business-oriented insights to answer real-world questions. The goal of this project is not only to write SQL queries, but also to interpret the results and provide practical business recommendations based on data. This project simulates a real data analyst task, where data is used to support decision-making and improve company performance.  
   
 ## ERD
 <img width="1487" height="650" alt="ERD" src="https://github.com/user-attachments/assets/b66089c0-c244-4897-8707-b38b66b6b240" />
@@ -34,4 +34,6 @@
 - No Customer placed more than 2 orders during the reporting period, suggesting **Low Purchase Frequency**
 
 ## Business Recommendations
-- Suggerimenti basati sulle analisi
+- **Invest** further in the **Electronics** category, as it represents the mai revenue driver
+- Take adventage of high demand for **Standing Desks** by offering **Related Products** or creting **Bundle Deals** 
+- Improve **Customer Retention Strategies** since no customer placed more than 2 orders, implementing **Loyalty Programs** and **Personalized Promotions**
