@@ -26,7 +26,7 @@ Each project reflects real analytical workflows - from data extraction and clean
 
 | Project Name | Description |
 |--------------|-------------|
-| **[Project Title](ProjectLink)** | Provide a clear explanation of the analytical problems addressed, the SQL techniques applied (joins, aggregations, CTEs, window functions), and the insights generated for decision-making. |
+| **[E-Commerce Sales & Perofrmance Analysis](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/SQL_Projects/E-Commerce_Sales_&_Performance_Analysis/README.md)** | This prorject analyzes sales data from an e-commerce company to understand business performance and identify growth opportunities. Using SQL queries, I calculated important KPI's and created business-oriented insights to answer real-world questions. The goal of this project is not only to write SQL queries, but also to interpret the results and provide practical business recommendations based on data. This project simulates a real data analyst task, where data is used to support decision-making and improve company performance. |
 
 ---
 
@@ -34,7 +34,7 @@ Each project reflects real analytical workflows - from data extraction and clean
 
 | Project Name | Screenshot | Description |
 |--------------|------------|-------------|
-| **[Project Title](ProjectLink)** | _Dashboard Screenshot_ | Summarize the dashboard’s purpose, the KPIs included, the Excel tools used (Power Query, Power Pivot, DAX), and the key business insights revealed. |
+| **[Project Title](projectlink)** | _Dashboard Screenshot_ | Summarize the dashboard’s purpose, the KPIs included, the Excel tools used (Power Query, Power Pivot, DAX), and the key business insights revealed. |
 
 ---
 
