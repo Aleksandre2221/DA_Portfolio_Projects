@@ -11,7 +11,7 @@
 - [Business Recommendations](#business-recommendations)
 - **Resources / Files**
   - [Dataset](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Dataset)
-  - [Screenshots](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Screenshots.md)
+  - [Images](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Images)
   - [DAX Measures](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/DAX_Measures.md)
   - [Dashboard](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Dashboard)
 
@@ -50,18 +50,18 @@ The dashboard provides insights such as:
 ---
 
 ## Data Model   
-![Data Model](Screenshots/Data_Model.png)
+![Data Model](Images/Data_Model.png)
 
 ----
 
 ## Dashboard Preview
 
 - ### Overview
-![Overview](Screenshots/Overview.png)
+![Overview](Images/Overview.png)
 
 ---- 
 - ### Orders
-![Orders](Screenshots/Orders.png)
+![Orders](Images/Orders.png)
 
 ---- 
 - ### Customers
@@ -69,15 +69,15 @@ The dashboard provides insights such as:
 
 ---- 
 - ### Products
-![Products](Screenshots/Products.png)
+![Products](Images/Products.png)
 
 ---- 
 - ### Filter Pane
-![Filter Pane](Screenshots/Filter_Pane.png)
+![Filter Pane](Images/Filter_Pane.png)
 
 ---- 
 - ### DAX Measures
-![DAX](Screenshots/DAX.png)
+![DAX](Images/DAX.png)
 
 
 
