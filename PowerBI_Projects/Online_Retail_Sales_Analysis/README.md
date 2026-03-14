@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Data Preparation (Power Query)](#data-preparation-power-query)
 - [Data Model](#data-model)
 - [Dashboard Preview](#dashboard-preview)
 - [DAX Measures](#dax-measures)
@@ -16,36 +15,20 @@
   - [Dashboard](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Dashboard)
 
 ## Description
-This project presents an **interactive Power BI dashboard** designed to analyze **sales performance, customer behavior, and operational efficiency** across multiple stores.
+This project analyzes an **online retail dataset** to understand sales performance, customer behavior, product demand, and order operations.  
+The goal of the analysis is to identify **key business trends**, evaluate **customer segments**, and uncover **actionable insights** that can support data-driven decision making.
 
-The dashboard enables stakeholders to:
-- Monitor **key business KPIs** such as Revenue, Orders, Customers, AOV, ARPU, and CLV  
-- Analyze sales trends by **store, product category, brand, and time period**
-- Evaluate the **impact of discounts, sales channels, and shipping performance**
-- Support **data-driven decisions** related to pricing, inventory, and staff performance
+An interactive dashboard was built to monitor the most important **e-commerce KPIs**, including revenue, profit, orders, customer metrics, and operational performance.
 
-The Power BI report consists of three pages:
-- Overview — overall sales, customer, categories and store performance
-- Products — detailed product sales analysis: Top products by gross revenue, category, subcategory and brand performance 
-- Stores — advanced store-level performance analysis  
+The analysis focuses on four main areas:
 
-The dashboard provides insights such as:
-- Total revenue and profit analysis
-- Sales by store, category, subcategory, brand and country
-- Top-performing and low-performing products
-- Quarterly performance trends
-- Discount impact on revenue 
+- **Overview** – High-level business performance including total sales, profit, orders, and ROI
+- **Orders Analysis** – Order trends, payment status, shipping performance, and operational metrics
+- **Customer Analysis** – Customer segmentation, age distribution, repurchase behavior, and acquisition sources
+- **Product Analysis** – Product performance, top-selling items, and sales distribution across products
 
+The dashboard enables stakeholders to quickly explore **sales trends, customer demographics, and product performance**, helping the business identify growth opportunities and optimize marketing, inventory, and customer retention strategies.
 
----
-
-## Data Preparation (Power Query)
-- Main transformations performed:
-  - Data cleaning  
-  - Handling null values  
-  - Merge / Append operations  
-  - Data type adjustments  
-  - Added calculated columns  
 
 ---
 
@@ -89,8 +72,16 @@ The dashboard provides insights such as:
 - Customer Analysis: Who are the Company's customers, how are they segmented, and how do different customer groups contribute to revenue?
 - Product Analysis: Which Products and Categories drive the most revenue and sales volume?
  
-## Key Findings 
-- Tutti i Business Insights che hai trovato (Es: “Lo store X mostra un calo del 15% nelle vendite di biciclette elettriche, suggerendo un focus su promozioni mirate”)
+## Key Findings
+- **Regular customers** generate the majority of revenue, accounting for **60.8% of total sales**
+- Customers aged **35–50** represent the most valuable segment, generating the **highest sales (~$5.6M)**
+- Sales are concentrated among a few products, with **Wireless Mouse, Bluetooth Speaker, and Smartwatch** leading revenue
+- **Order fulfillment is stable**, with around **70% of orders successfully completed** and cancellation rates near **5%**
+- Customer acquisition is **well distributed across marketing channels**, with no single dominant traffic source
 
 ## Business Recommendations
-- suggerimenti attuabili basati sui dati, come strategie di pricing, inventario o incentivi al personale.
+- Focus marketing efforts on the **35–50 age segment**, as it generates the **highest revenue**
+- Implement **Loyalty Programs and targeted promotions** to convert **Regular customers into Premium or VIP segments**
+- Prioritize **inventory and marketing campaigns** for **top-selling products** to maximize revenue opportunities
+- Increase **Average Order Value** by introducing **Product Bundles and Cross-Selling strategies**
+- Maintain **diversified marketing channels** to reduce dependency on a single customer acquisition source
