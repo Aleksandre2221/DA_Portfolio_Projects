@@ -40,9 +40,9 @@ Each project reflects real analytical workflows - from data extraction and clean
 
 # Power BI Reports
 
-| Project Name | Screenshot | Description |
+| Project Name | Dashboard Preview | Description |
 |--------------|------------|-------------|
-| **[Project Title](ProjectLink)** | _Dashboard Screenshot_ | Describe the analytical scenarios addressed, the data model structure, DAX measures implemented, and how the report supports business decisions. |
+| **[Online Retail Sales Analysis](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis)** | <img width = 1600px, height=220px, src="https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Images/Overview.png"> | This project analyzes an online retail dataset to understand sales performance, customer behavior, product demand, and order operations. The goal of the analysis is to identify key business trends, evaluate customer segments, and uncover actionable insights that can support data-driven decision making.. |
 
 ---
 
