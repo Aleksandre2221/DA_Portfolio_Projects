@@ -68,7 +68,7 @@ Each project reflects real analytical workflows - from data extraction and clean
 
 If you would like to discuss a project or connect:
 
-- **LinkedIn:** https://www.linkedin.com/in/aleksandre-kobidze-249965359/
+- **LinkedIn:** https://www.linkedin.com/in/aleksandre-kobidze-4228603a3/
 - **GitHub:** https://github.com/Aleksandre2221
 
 ---
