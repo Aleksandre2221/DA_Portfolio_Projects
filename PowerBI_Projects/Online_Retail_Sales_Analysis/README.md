@@ -65,7 +65,7 @@ The dashboard provides insights such as:
 
 ---- 
 - ### Customers
-![Customers](Screenshots/Customers.png)
+![Customers](Images/Customers.png)
 
 ---- 
 - ### Products
