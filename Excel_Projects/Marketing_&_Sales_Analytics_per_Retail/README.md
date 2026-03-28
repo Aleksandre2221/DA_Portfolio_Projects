@@ -9,79 +9,88 @@
 - [Key Findings](#key-findings)
 - [Business Recommendations](#business-recommendations)
 - **Resources / Files**
-  - [Dataset](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Dataset)
-  - [Images](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Images)
-  - [DAX Measures](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/DAX_Measures.md)
-  - [Dashboard](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Dashboard)
+  - [Dataset](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail/Dataset)
+  - [Screenshots](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail/Screenshots)
+  - [DAX Measures](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Marketing_%26_Sales_Analytics_per_Retail/DAX_Measures.md)
+  - [Dashboard](https://github.com/Aleksandre2221/DA_Portfolio_Projects/tree/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail/Dashboard)
 
 ## Description
-This project analyzes an **online retail dataset** to understand sales performance, customer behavior, product demand, and order operations.  
-The goal of the analysis is to identify **key business trends**, evaluate **customer segments**, and uncover **actionable insights** that can support data-driven decision making.
+This project focuses on analyzing sales data to understand business performance, customer behavior, product trends, and geographical distribution.
 
-An interactive dashboard was built to monitor the most important **e-commerce KPIs**, including revenue, profit, orders, customer metrics, and operational performance.
+The dataset contains over **100,000** records and was modeled using a structured data approach to ensure efficient analysis. The report is divided into **four** main sections: **Overview**, **Customers**, **Products**, and **Location**.
 
-The analysis focuses on four main areas:
+The goal was to identify key revenue drivers, uncover patterns across different customer segments and products, and highlight potential risks such as high dependency on specific markets.
 
-- **Overview** – High-level business performance including total sales, profit, orders, and ROI
-- **Orders Analysis** – Order trends, payment status, shipping performance, and operational metrics
-- **Customer Analysis** – Customer segmentation, age distribution, repurchase behavior, and acquisition sources
-- **Product Analysis** – Product performance, top-selling items, and sales distribution across products
-
-The dashboard enables stakeholders to quickly explore **sales trends, customer demographics, and product performance**, helping the business identify growth opportunities and optimize marketing, inventory, and customer retention strategies.
+Using data modeling and calculated metrics, the analysis provides clear insights and practical recommendations to support better decision-making and identify growth opportunities.
 
 
 ---
 
 ## Data Model   
-![Data Model](Images/Data_Model.png)
+![Data Model](Screenshots/Data_Model.png)
 
 ----
 
 ## Dashboard Preview
 
 - ### Overview
-![Overview](Images/Overview.png)
-
----- 
-- ### Orders
-![Orders](Images/Orders.png)
+![Overview](Screenshots/Overview.png)
 
 ---- 
 - ### Customers
-![Customers](Images/Customers.png)
+![Customers](Screenshots/Customers.png)
 
 ---- 
 - ### Products
-![Products](Images/Products.png)
+![Products](Screenshots/Products.png)
 
 ---- 
-- ### Filter Pane
-![Filter Pane](Images/Filter_Pane.png)
+- ### Location
+![Filter Pane](Screenshots/Location.png)
 
 ---- 
 - ### DAX Measures
-![DAX](Images/DAX.png)
+![DAX](Screenshots/DAX.png)
 
 
 
 ---  
 
 ## Case Study Questions
-- Overview Analysis: What is the overall business performance regarding orders, revenue, customer activity, and operational efficiency?
-- Order Analysis: How do orders behave across time, locations, and operational factors such as shipping, payments, and order status?
-- Customer Analysis: Who are the Company's customers, how are they segmented, and how do different customer groups contribute to revenue?
-- Product Analysis: Which Products and Categories drive the most revenue and sales volume?
+- Overview Analysis: How is the overall business performing in terms of revenue trend, seasonality, and key growth patterns?
+- Customer Analysis: Who are the main customer groups (age, income, segment), and which ones generate the most revenue?
+- Product Analysis: Which product categories, types, and brands drive the most sales and revenue?
+- Location Analysis: Which countries, regions, and cities contribute the most to revenue, and how concentrated are sales geographically?
  
 ## Key Findings
-- **Regular customers** generate the majority of revenue, accounting for **60.8% of total sales**
-- Customers aged **35–50** represent the most valuable segment, generating the **highest sales (~$5.6M)**
-- Sales are concentrated among a few products, with **Wireless Mouse, Bluetooth Speaker, and Smartwatch** leading revenue
-- **Order fulfillment is stable**, with around **70% of orders successfully completed** and cancellation rates near **5%**
-- Customer acquisition is **well distributed across marketing channels**, with no single dominant traffic source
+- Revenue is highly concentrated geographically, showing strong dependecy on specific locations:
+  - The UK drives **~40%** of total sales, with most revenue coming from a single city - **Portshmouth**
+  - **~60%** of Germany sales come from - **Frankfurt**
+  - In the US, sales are mostly evenly distributed, except for **Connecticut ($14.6M)** and **New Mexico (~$9M)**, which clearly stand out 
+---
+- The Business relies havily on **Young** customers (18-24)
+  - This age group drives over **80%** of revenue, making it the core customer segment
+---
+- Sales are dominated by **Regular** customers
+  - Most revenue (**~$90M**)comes from **Regular** customers, while **Premium** customers contribute much less (**~$10M**)
+---
+- Revenue is **Stable** accross the year, with small ups and downs
+  - There's a drop in **September**, followed by a strong revocery in October
+--- 
+- **Grocery** is the top category
+  - Generate over **$40M** - around **30%** of total revenue
+---
+- **Water** is the best performing product type
+  - **9** out of top 10 product are water-related
+---
+- **Pepsi** is the leading brand
+  - Woth **$25M** in sales - **~18%** of total revenue
+
 
 ## Business Recommendations
-- Focus marketing efforts on the **35–50 age segment**, as it generates the **highest revenue**
-- Implement **Loyalty Programs and targeted promotions** to convert **Regular customers into Premium or VIP segments**
-- Prioritize **inventory and marketing campaigns** for **top-selling products** to maximize revenue opportunities
-- Increase **Average Order Value** by introducing **Product Bundles and Cross-Selling strategies**
-- Maintain **diversified marketing channels** to reduce dependency on a single customer acquisition source
+- Reduce geographical dependency: Expand and strengthen underperforming regions to balance revenue distribution
+- Diversify the customer base: Target older age groups to reduce reliance on the 18–24 segment
+- Increase value of premium customers: Introduce loyalty programs or benefits to increase Premium customer share
+- Fix the September drop: Run promotions or campaigns before and during September to smooth the decline
+- Expand beyond core products: Promote and develop non-dominant categories to reduce product dependency
+- Capitalize on top brands (Pepsi): Use partnerships, bundles, or promotions to maximize their performance
