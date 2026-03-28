@@ -34,7 +34,7 @@ Each project reflects real analytical workflows - from data extraction and clean
 
 | Project Name | Screenshot | Description |
 |--------------|------------|-------------|
-| **[Marketing & Sales Analytics per Retail](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail)** | <img width = 1800px, height=220px, src="https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail/Screenshots/Overview.png">| This project focuses on analyzing sales data to understand business performance, customer behavior, product trends, and geographical distribution. |
+| **[Marketing & Sales Analytics per Retail](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail)** | <img width = 2000px, height=220px, src="https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail/Screenshots/Overview.png">| This project focuses on analyzing sales data to understand business performance, customer behavior, product trends, and geographical distribution. The goal was to identify key revenue drivers, uncover patterns across different customer segments and products, and highlight potential risks such as high dependency on specific markets.|
 
 ---
 
