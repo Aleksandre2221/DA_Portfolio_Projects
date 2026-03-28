@@ -34,7 +34,7 @@ Each project reflects real analytical workflows - from data extraction and clean
 
 | Project Name | Screenshot | Description |
 |--------------|------------|-------------|
-| **[Project Title](projectlink)** | _Dashboard Screenshot_ | Summarize the dashboard’s purpose, the KPIs included, the Excel tools used (Power Query, Power Pivot, DAX), and the key business insights revealed. |
+| **[Marketing & Sales Analytics per Retail](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail)** | <img width = 1800px, height=220px, src="https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/Excel_Projects/Marketing_&_Sales_Analytics_per_Retail/Screenshots/Overview.png">| This project focuses on analyzing sales data to understand business performance, customer behavior, product trends, and geographical distribution. |
 
 ---
 
@@ -42,7 +42,7 @@ Each project reflects real analytical workflows - from data extraction and clean
 
 | Project Name | Dashboard Preview | Description |
 |--------------|------------|-------------|
-| **[Online Retail Sales Analysis](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis)** | <img width = 1800px, height=220px, src="https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Images/Overview.png"> | This project analyzes an online retail dataset to understand sales performance, customer behavior, product demand, and order operations. The goal of the analysis is to identify key business trends, evaluate customer segments, and uncover actionable insights that can support data-driven decision making.. |
+| **[Online Retail Sales Analysis](https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis)** | <img width = 1800px, height=220px, src="https://github.com/Aleksandre2221/DA_Portfolio_Projects/blob/main/PowerBI_Projects/Online_Retail_Sales_Analysis/Images/Overview.png"> | This project analyzes an online retail dataset to understand sales performance, customer behavior, product demand, and order operations. The goal of the analysis is to identify key business trends, evaluate customer segments, and uncover actionable insights that can support data-driven decision making.|
 
 ---
 
